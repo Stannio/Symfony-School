@@ -1,6 +1,6 @@
 # Symfony for school
 
-This is the project that is used to learn symfony
+This is the project that is used to learn symfony in school
 
 If you want to run this project you have to clone it using https <br />
 1] ``` git clone https://github.com/Stannio/Symfony-School.git name_here ``` <br />
